@@ -3,12 +3,10 @@
   Desenvolvedor Full Stack • Empreendedor • Sempre aprendendo e construindo
 </p>
 
----
-
 ## 👤 Sobre mim
 
 <p align="center">
-  <img src="./assets/perfil.jpg" width="160" alt="Foto de Frederico Andrade" style="border-radius: 50%;" />
+  <img src="./assets/perfil.jpg" width="160" alt="Foto de Flávio Sá de Andrade" style="border-radius: 50%;" />
 </p>
 
 - Comecei na programação como passatempo aos 11 anos e nunca mais parei.
@@ -16,8 +14,6 @@
 - Enxadrista: campeão do torneio interno do **IFSULDEMINAS – Campus Inconfidentes** e de um torneio no Sul de Minas.
 - **Valores**: confiança no trabalho e busca pela **independência do indivíduo**.
 - **Desenvolvedor Full Stack independente**, sempre explorando novas tecnologias para aprimorar minhas habilidades.
-
----
 
 ## 🚀 Projeto recente — app.fivel.com.br
 
@@ -32,9 +28,8 @@
 - APIs REST organizadas por domínios e padronizadas;
 - Camadas separadas (serviços, repositórios, validações) e integração com MySQL;
 - Interface responsiva com Tailwind e componentes reutilizáveis em React;
-- Boas práticas de versionamento e automação básica de rotinas.
+- Chatbot com IA 🤖;
 
----
 
 ## 🧰 Stack & Ferramentas
 
@@ -53,7 +48,6 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white" />
 </p>
----
 
 ## 🏆 Conquistas & Interesses
 
@@ -61,11 +55,8 @@
 - ♟️ Xadrez competitivo (IFSULDEMINAS e torneio regional)  
 - 🔭 Interesses: arquitetura de software, performance de APIs, automação de processos e UX focada em clareza.
 
----
-
 ## 📊 Atividade
 <p>
   <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio461&layout=compact&theme=react&hide_border=true" />
 </p>
--->
 
