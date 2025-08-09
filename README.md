@@ -1,9 +1,4 @@
-<!--
-Este README aparece no seu perfil do GitHub quando está no repositório
-<seu-usuario>/<seu-usuario>. Substitua os caminhos das imagens conforme indicado.
--->
-
-<h1 align="center">Olá, eu sou o Frederico Andrade 👋</h1>
+<h1 align="center">Olá, eu sou o Flávio Sá de Andrade 👋</h1>
 <p align="center">
   Desenvolvedor Full Stack • Empreendedor • Sempre aprendendo e construindo
 </p>
@@ -13,7 +8,6 @@ Este README aparece no seu perfil do GitHub quando está no repositório
 ## 👤 Sobre mim
 
 <p align="center">
-  <!-- Substitua pelo arquivo da sua foto (ex.: ./assets/perfil.jpg) -->
   <img src="./assets/perfil.jpg" width="160" alt="Foto de Frederico Andrade" style="border-radius: 50%;" />
 </p>
 
@@ -28,7 +22,6 @@ Este README aparece no seu perfil do GitHub quando está no repositório
 ## 🚀 Projeto recente — app.fivel.com.br
 
 <a href="https://app.fivel.com.br" target="_blank">
-  <!-- Coloque um print do projeto: ex.: ./assets/fivel-screenshot.png -->
   <img src="./assets/fivel-screenshot.png" alt="Print do projeto app.fivel.com.br" />
 </a>
 
@@ -53,8 +46,13 @@ Este README aparece no seu perfil do GitHub quando está no repositório
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C.svg?logo=cmake&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white" />
 </p>
-
 ---
 
 ## 🏆 Conquistas & Interesses
@@ -65,18 +63,9 @@ Este README aparece no seu perfil do GitHub quando está no repositório
 
 ---
 
-## 📌 Como usar as imagens deste README
-
-- **Foto pessoal:** salve sua imagem em `./assets/perfil.jpg` (ou ajuste o caminho em “Sobre mim”).  
-- **Print do projeto:** salve em `./assets/fivel-screenshot.png` (ou ajuste o caminho na seção do projeto).
-
----
-
-<!-- Opcional: ative depois de trocar "seu-usuario" pelo seu @ do GitHub
 ## 📊 Atividade
 <p>
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=react&hide_border=true" />
-  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=react&hide_border=true" />
+  <img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio461&layout=compact&theme=react&hide_border=true" />
 </p>
 -->
 
